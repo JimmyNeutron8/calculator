@@ -1,0 +1,33 @@
+#main-container {
+    background-color: gray;
+    border: 2px solid darkgray;
+    width: 360px;
+    height: 480px;
+    margin: auto;
+}
+
+#display {
+    background-color: #111;
+    height: 70px;
+    margin: 10px;
+    font-size: 36px;
+    color: white;
+    text-align: right;
+}
+
+#buttons {
+    background-color: lightgray;
+    margin: 10px;
+    height: 375px;
+}
+
+.button {
+    width: 25%;
+    height: 20%;
+    float: left;
+    font-size: 36px;
+}
+
+.clear {
+    width: 100%;
+}
